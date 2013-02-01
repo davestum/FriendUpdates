@@ -23,7 +23,6 @@ Ext.application({
         'Status'
     ],
     stores: [
-        null,
         'Friends',
         'Statuses'
     ],
